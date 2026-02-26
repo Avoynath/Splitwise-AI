@@ -123,7 +123,6 @@ Splitwise AI/
 │   │   ├── lib/           # API client with JWT interceptors
 │   │   └── store/         # Zustand stores (auth, groups, expenses)
 │   └── package.json
-├── docker-compose.yml     # Docker setup (PostgreSQL + Redis + services)
 ├── .gitignore
 └── README.md
 ```
